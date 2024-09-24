@@ -1,6 +1,6 @@
 # Mafiaenshevn Background Changer
 
-This is a Chromium extension script designed to locally customize the background for Mafiaenshevn. Enhance your gaming experience with a personalized touch!
+This is a Chromium extension script designed to locally customize the background for Mafiaenshevn.com. Enhance your gaming experience with a personalized touch!
 
 ## Features
 
